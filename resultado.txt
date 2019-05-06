@@ -1,0 +1,14 @@
+Posição Chegada       Código Piloto         Nome Piloto       Qtde Voltas Completadas       Tempo Total de Prova(*)         Melhor volta da Prova     Velocidade média da Prova      Dif. para o Vencedor(**)
+              1                 038             F.MASSA                             4                  00:04:11.578                      1:02.769                        44,246                            +0
+              2                 002         K.RAIKKONEN                             4                  00:04:15.153                      1:03.076                        43,628                        +3.575
+              3                 033       R.BARRICHELLO                             4                   00:04:16.08                      1:03.716                        43,468                        +4.502
+              4                 023            M.WEBBER                             4                  00:04:17.722                      1:04.216                        43,192                        +6.144
+              5                 015            F.ALONSO                             4                  00:04:54.221                      1:07.011                        38,067                       +42.643
+             NC                 011            S.VETTEL                             3                  00:06:27.276                      1:18.097                        25,746                            --
+
+Melhor volta da corrida: 1:02.769 (038 - F.MASSA)
+
+Legenda:
+- NC = Não completou a prova
+- (*) = formato HH:MM:SS.MS
+- (**) = formato SS.MS
