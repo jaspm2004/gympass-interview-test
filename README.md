@@ -1,6 +1,6 @@
 # gympass-interview-test
 
-Segue implementação de uma solução para o problema apresentado em:
+Segue implementação, em Java, de uma solução para o problema apresentado em:
 https://github.com/Gympass/interview-test
 
 Esta solução inclui também os itens do Bônus
